@@ -48,11 +48,10 @@ React-Tic-Tac-Toe
     │       react.svg
     │
     ├───components
-    │   │   GameBoard.jsx
-    │   │   GameOver.jsx
-    │   │   Player.jsx
-    │   │   Log.jsx
-    │   │
+    │     GameBoard.jsx
+    │     GameOver.jsx
+    │     Player.jsx
+    │     Log.jsx
 ```
 
 ## Installation
