@@ -8,7 +8,7 @@ TicTacToe Master is an interactive Tic Tac Toe game built with React. It allows 
 
 ## Project Overview
 
-![Tic Tac Toe Game Screenshot](https://via.placeholder.com/800x400?text=Screenshot+Placeholder)  
+![Tic Tac Toe Game Screenshot](./public/OverView.png)  
 _Screenshot of the game interface._
 
 ## Features
@@ -18,6 +18,8 @@ _Screenshot of the game interface._
 - **Win/Draw Detection**: The game identifies a winner or declares a draw automatically.
 - **Rematch Option**: Quickly reset the game board for another round.
 - **Responsive Design**: Works seamlessly across different screen sizes.
+
+## Project Structure
 
 ```
 React-Tic-Tac-Toe
