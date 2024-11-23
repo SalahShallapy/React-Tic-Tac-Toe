@@ -1,10 +1,10 @@
-# React Tic-TacT-oe
+# React Tic-Tac-Toe
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-TicTacToe Master is an interactive Tic Tac Toe game built with React. It allows two players to play against each other, with customizable player names, a live game log, and instant win/draw detection. The game is a perfect example of how to use React state and props to create engaging user experiences.
+React-Tic-Tac-Toe is an interactive Tic Tac Toe game built with React. It allows two players to play against each other, with customizable player names, a live game log, and instant win/draw detection. The game is a perfect example of how to use React state and props to create engaging user experiences.
 
 ## Project Overview
 
