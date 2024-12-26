@@ -26,7 +26,7 @@ React-Tic-Tac-Toe is an interactive Tic Tac Toe game built with React. It allows
 
 ### Overview
 
-![game preview](./public/overview.png)
+![game preview](./public/game.png)
 
 ### Gameover Overview
 
