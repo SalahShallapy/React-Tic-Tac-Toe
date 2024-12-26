@@ -14,7 +14,7 @@
 <h1>React Tic-Tac-Toe</h1>
 
   <p align="center">
-    <a href="https://hold-n-roll.vercel.app/">View Demo</a>
+    <a href="https://hold--n--roll.web.app/">View Demo</a>
     ·
     <a href="https://github.com/SalahShallapy/React-Tic-Tac-Toe/issues">Report Bug</a>
   </p>
