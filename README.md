@@ -1,15 +1,36 @@
-# React Tic-Tac-Toe
+<div id="top"></div>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+<!-- PROJECT LOGO  -->
+<br />
+<div align="center">
+<a href="https://hold--n--roll.web.app/">
+    <img src="./public/game-logo.png" alt="Logo" height="75">
+</a>
+
+<h1>React Tic-Tac-Toe</h1>
+
+  <p align="center">
+    <a href="https://hold-n-roll.vercel.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/React-Tic-Tac-Toe/issues">Report Bug</a>
+  </p>
+</div>
+
 React-Tic-Tac-Toe is an interactive Tic Tac Toe game built with React. It allows two players to play against each other, with customizable player names, a live game log, and instant win/draw detection. The game is a perfect example of how to use React state and props to create engaging user experiences.
 
 ## Project Overview
 
-![Tic Tac Toe Game Screenshot](./public/OverView.png)  
-_Screenshot of the game interface._
+### Overview
+
+![game preview](./public/overview.png)
+
+### Gameover Overview
+
+![gameover preview](./public/gameover.png)
 
 ## Features
 
@@ -18,6 +39,13 @@ _Screenshot of the game interface._
 - **Win/Draw Detection**: The game identifies a winner or declares a draw automatically.
 - **Rematch Option**: Quickly reset the game board for another round.
 - **Responsive Design**: Works seamlessly across different screen sizes.
+
+## How to Play
+
+- Edit player names by clicking the "Edit" button next to their name.
+- Players take turns by clicking an empty square.
+- The game announces a winner when a player completes a winning combination, or declares a draw when the board is full.
+- Click "Rematch" to restart the game.
 
 ## Project Structure
 
@@ -74,13 +102,6 @@ To get started with the project locally:
    ```bash
    npm run dev
    ```
-
-## How to Play
-
-- Edit player names by clicking the "Edit" button next to their name.
-- Players take turns by clicking an empty square.
-- The game announces a winner when a player completes a winning combination, or declares a draw when the board is full.
-- Click "Rematch" to restart the game.
 
 ## Contributing
 
